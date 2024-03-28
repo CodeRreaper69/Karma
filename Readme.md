@@ -49,5 +49,3 @@ Ensure that Python is installed, preferably a version equal to or higher than Py
 ## License
 This project is licensed under the [MIT License](LICENSE).
 ```
-
-You can use this README.md file for your Karma_OS project on GitHub. Just replace the placeholder URLs and adjust any details as needed.
