@@ -45,7 +45,3 @@ Karma_OS can be utilized for various purposes, including:
 
 ## Requirements
 Ensure that Python is installed, preferably a version equal to or higher than Python 3.7.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-```
