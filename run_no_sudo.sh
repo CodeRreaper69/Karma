@@ -41,6 +41,7 @@ cd karma9
 
 # Install dependencies and setup.py
 echo -e "\033[1;32mInstalling dependencies and setting up Karma...\033[0m"
+apt install python3
 apt-get install python3-pip
 pip install setuptools
 python3 setup.py install
