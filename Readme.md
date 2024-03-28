@@ -3,7 +3,7 @@
 ## Introduction
 Karma_OS is a security-focused CLI-based operating system designed for minimal distractions, fast response times, and enhanced security measures. It includes a backdoor implementation for advanced users and focuses on providing a streamlined environment for security-related tasks.
 
-## Installation (Debian based only)
+## Installation (Debian linux based only)
 
 ### Clone the Repository
 ```
