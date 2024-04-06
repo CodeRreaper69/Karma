@@ -37,7 +37,7 @@ fi
 
 # Extract the tar.gz file
 tar -xzf karma9.tar.gz 
-cd karma9
+cd karma10
 
 # Install dependencies and setup.py
 echo -e "\033[1;32mInstalling dependencies and setting up Karma...\033[0m"
