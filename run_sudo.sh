@@ -52,7 +52,7 @@ sudo rm -rf karma
 # Prompt the user to run the karma9 command
 echo -e "\033[1;32mInstallation completed successfully.\033[0m"
 echo -e "\033[1;32mYou can now run the 'karma9' command to start the application.\033[0m"
-sleep 2
+sleep 5
 clear
 
 # Clean up (optional)
