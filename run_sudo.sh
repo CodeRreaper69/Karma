@@ -50,7 +50,8 @@ sudo python3 setup.py install
 echo -e "\033[1;32mInstallation completed successfully.\033[0m"
 echo -e "\033[1;32mYou can now run the 'karma9' command to start the application.\033[0m"
 sleep 0.7
-rm karma9.py
+cd 
+sudo rm -rf karma
 
 # Clean up (optional)
 # rm -rf karma9  # Uncomment this line to remove the extracted folder after installation
