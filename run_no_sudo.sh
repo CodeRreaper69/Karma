@@ -45,10 +45,16 @@ apt install python3
 apt-get install python3-pip
 pip install setuptools
 python3 setup.py install
+sleep 1
+cd 
+rm -rf karma
 
 # Prompt the user to run the karma9 command
 echo -e "\033[1;32mInstallation completed successfully.\033[0m"
 echo -e "\033[1;32mYou can now run the 'karma9' command to start the application.\033[0m"
+
+sleep 5
+clear
 
 # Clean up (optional)
 # rm -rf karma9  # Uncomment this line to remove the extracted folder after installation
